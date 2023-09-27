@@ -2,7 +2,7 @@
 
 Actualmente, estoy inmerso en el mundo del desarrollo móvil con Android y tengo experiencia en el diseño y desarrollo de sitios web. Siempre estoy buscando formas de mejorar mis habilidades y contribuir a proyectos emocionantes.
 
-Puedes encontrar ejemplos de mi trabajo y proyectos en mi perfil. ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en un proyecto interesante!
+
 
 
 <!---
