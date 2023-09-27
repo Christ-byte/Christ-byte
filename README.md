@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Christ-byte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+¡Hola! Soy Christopher, un apasionado estudiante de ingeniería de software con un enfoque en Java, CSS, Android, desarrollo web y SQL. Me encanta construir aplicaciones que funcionen a la perfección y se vean geniales.
+
+Actualmente, estoy inmerso en el mundo del desarrollo móvil con Android y tengo experiencia en el diseño y desarrollo de sitios web. Siempre estoy buscando formas de mejorar mis habilidades y contribuir a proyectos emocionantes.
+
+Puedes encontrar ejemplos de mi trabajo y proyectos en mi perfil. ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en un proyecto interesante!
+
 
 <!---
 Christ-byte/Christ-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
