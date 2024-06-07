@@ -1,4 +1,10 @@
-<h2 align="left">Hola 👋! Mi nombre es Christopher y soy programdor ...</h2>
+<h2 align="left">Hola 👋, soy Christopher</h2>
+
+###
+
+<p align="left">
+  Soy un apasionado programador con experiencia en diversas tecnologías y lenguajes de programación. Siempre estoy buscando aprender y mejorar mis habilidades, así como colaborar en proyectos interesantes y desafiantes. Aquí te cuento un poco más sobre mí:
+</p>
 
 ###
 
