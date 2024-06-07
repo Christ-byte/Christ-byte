@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Soy un apasionado programador con experiencia en diversas tecnologías y lenguajes de programación. Siempre estoy buscando aprender y mejorar mis habilidades, así como colaborar en proyectos interesantes y desafiantes. Aquí te cuento un poco más sobre mí:
+  Soy un programador apasionado con experiencia en diversas tecnologías y lenguajes de programación. Me encanta aprender y colaborar en proyectos interesantes.
 </p>
 
 ###
